@@ -6,3 +6,4 @@ langchain
 typing_extensions
 bs4
 streamlit
+tiktoken

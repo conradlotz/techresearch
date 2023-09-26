@@ -3,6 +3,6 @@ openai
 python-dotenv
 pydantic
 langchain
-typing_extensions==4.5.0
+typing_extensions
 bs4
 streamlit

@@ -1,7 +1,7 @@
 fastapi[all]
 openai
 python-dotenv
-pydantic
+pydantic==1.10.9
 langchain
 typing_extensions
 bs4

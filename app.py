@@ -147,7 +147,7 @@ tools = [
 ]
 
 system_message = SystemMessage(
-    content="""You are a world class researcher, who can do detailed research on any topic and produce facts based results; 
+    content="""You are a world class technology researcher, who can do detailed research on any software development and technology topic and produce facts based results; 
             you do not make things up, you will try as hard as possible to gather facts & data to back up the research
             
             Please make sure you complete the objective above with the following rules:
